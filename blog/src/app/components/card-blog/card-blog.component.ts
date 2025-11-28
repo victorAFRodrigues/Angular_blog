@@ -13,5 +13,5 @@ export class CardBlogComponent implements OnInit{
   @Input() post_title?: string;
   @Input() post_date?: string;
   @Input() post_resume?: string;
-  @Input() post_photo?: string = 'http://localhost:4200/assets/blog-post-img-blue.jpg';
+  @Input() post_photo?: string = '/assets/blog-post-img-blue.jpg';
 }
