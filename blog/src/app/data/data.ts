@@ -4,7 +4,7 @@ export const Data = [
         "post_slug":"first-post",
         "post_date":"01/10/2023",
         "post_author":"Victor Rodrigues",
-        "post_image":"http://localhost:4200/assets/blog-post-img.jpg",
+        "post_image":"/assets/blog-post-img.jpg",
         "post_content":`<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pharetra lectus a quam porttitor maximus. Morbi lacinia nisl elit, at imperdiet leo hendrerit at. Integer vel iaculis sem. Donec eget consequat purus. Proin semper nunc ut purus vulputate suscipit. Suspendisse iaculis congue felis, quis facilisis tortor dapibus id. Etiam sollicitudin venenatis quam at pellentesque. Vivamus ac mauris lacinia, porttitor justo vitae, dapibus erat. Phasellus sit amet ultricies turpis, tincidunt finibus sapien. Aliquam risus lacus, ornare quis accumsan a, lacinia vel metus. Etiam sit amet orci at dolor imperdiet ultrices id vitae eros. Proin malesuada erat purus, in vulputate leo tempus sit amet. Quisque congue lectus nec lectus ultrices, et condimentum eros convallis.</p>
         <br>
         <p>Duis lacus turpis, imperdiet non lectus id, fermentum lacinia mi. Mauris vestibulum accumsan metus, quis ullamcorper nunc egestas eget. Aenean rutrum, odio eget pharetra tincidunt, purus libero vestibulum ligula, sit amet pellentesque sem dolor in dolor. Sed ligula orci, suscipit id dictum id, egestas at est. Praesent eu faucibus ante. Quisque rhoncus a diam id sodales. Quisque vel nisl elementum, ornare purus vitae, vestibulum est. Nulla pretium viverra erat et molestie. Donec semper, sapien quis rhoncus interdum, turpis arcu fringilla nisi, eu pellentesque urna velit ut lectus.</p> 
@@ -66,7 +66,7 @@ export const Data = [
         "post_slug":"third-post",
         "post_date":"03/10/2023",
         "post_author":"Victor Rodrigues",
-        "post_image":"http://localhost:4200/assets/blog-post-img.jpg",
+        "post_image":"/assets/blog-post-img.jpg",
         "post_content":`<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pharetra lectus a quam porttitor maximus. Morbi lacinia nisl elit, at imperdiet leo hendrerit at. Integer vel iaculis sem. Donec eget consequat purus. Proin semper nunc ut purus vulputate suscipit. Suspendisse iaculis congue felis, quis facilisis tortor dapibus id. Etiam sollicitudin venenatis quam at pellentesque. Vivamus ac mauris lacinia, porttitor justo vitae, dapibus erat. Phasellus sit amet ultricies turpis, tincidunt finibus sapien. Aliquam risus lacus, ornare quis accumsan a, lacinia vel metus. Etiam sit amet orci at dolor imperdiet ultrices id vitae eros. Proin malesuada erat purus, in vulputate leo tempus sit amet. Quisque congue lectus nec lectus ultrices, et condimentum eros convallis.</p>
         <br>
          <p>Duis lacus turpis, imperdiet non lectus id, fermentum lacinia mi. Mauris vestibulum accumsan metus, quis ullamcorper nunc egestas eget. Aenean rutrum, odio eget pharetra tincidunt, purus libero vestibulum ligula, sit amet pellentesque sem dolor in dolor. Sed ligula orci, suscipit id dictum id, egestas at est. Praesent eu faucibus ante. Quisque rhoncus a diam id sodales. Quisque vel nisl elementum, ornare purus vitae, vestibulum est. Nulla pretium viverra erat et molestie. Donec semper, sapien quis rhoncus interdum, turpis arcu fringilla nisi, eu pellentesque urna velit ut lectus.</p> 
@@ -97,7 +97,7 @@ export const Data = [
         "post_slug":"fourth-post",
         "post_date":"04/10/2023",
         "post_author":"Victor Rodrigues",
-        "post_image":"http://localhost:4200/assets/blog-post-img-blue.jpg",
+        "post_image":"/assets/blog-post-img-blue.jpg",
         "post_content":`<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pharetra lectus a quam porttitor maximus. Morbi lacinia nisl elit, at imperdiet leo hendrerit at. Integer vel iaculis sem. Donec eget consequat purus. Proin semper nunc ut purus vulputate suscipit. Suspendisse iaculis congue felis, quis facilisis tortor dapibus id. Etiam sollicitudin venenatis quam at pellentesque. Vivamus ac mauris lacinia, porttitor justo vitae, dapibus erat. Phasellus sit amet ultricies turpis, tincidunt finibus sapien. Aliquam risus lacus, ornare quis accumsan a, lacinia vel metus. Etiam sit amet orci at dolor imperdiet ultrices id vitae eros. Proin malesuada erat purus, in vulputate leo tempus sit amet. Quisque congue lectus nec lectus ultrices, et condimentum eros convallis.</p>
         <br>
          <p>Duis lacus turpis, imperdiet non lectus id, fermentum lacinia mi. Mauris vestibulum accumsan metus, quis ullamcorper nunc egestas eget. Aenean rutrum, odio eget pharetra tincidunt, purus libero vestibulum ligula, sit amet pellentesque sem dolor in dolor. Sed ligula orci, suscipit id dictum id, egestas at est. Praesent eu faucibus ante. Quisque rhoncus a diam id sodales. Quisque vel nisl elementum, ornare purus vitae, vestibulum est. Nulla pretium viverra erat et molestie. Donec semper, sapien quis rhoncus interdum, turpis arcu fringilla nisi, eu pellentesque urna velit ut lectus.</p> 
@@ -129,7 +129,7 @@ export const Data = [
         "post_slug":"Fifth-post",
         "post_date":"05/10/2023",
         "post_author":"Victor Rodrigues",
-        "post_image":"http://localhost:4200/assets/blog-post-img.jpg",
+        "post_image":"/assets/blog-post-img.jpg",
         "post_content":`<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pharetra lectus a quam porttitor maximus. Morbi lacinia nisl elit, at imperdiet leo hendrerit at. Integer vel iaculis sem. Donec eget consequat purus. Proin semper nunc ut purus vulputate suscipit. Suspendisse iaculis congue felis, quis facilisis tortor dapibus id. Etiam sollicitudin venenatis quam at pellentesque. Vivamus ac mauris lacinia, porttitor justo vitae, dapibus erat. Phasellus sit amet ultricies turpis, tincidunt finibus sapien. Aliquam risus lacus, ornare quis accumsan a, lacinia vel metus. Etiam sit amet orci at dolor imperdiet ultrices id vitae eros. Proin malesuada erat purus, in vulputate leo tempus sit amet. Quisque congue lectus nec lectus ultrices, et condimentum eros convallis.</p>
         <br>
          <p>Duis lacus turpis, imperdiet non lectus id, fermentum lacinia mi. Mauris vestibulum accumsan metus, quis ullamcorper nunc egestas eget. Aenean rutrum, odio eget pharetra tincidunt, purus libero vestibulum ligula, sit amet pellentesque sem dolor in dolor. Sed ligula orci, suscipit id dictum id, egestas at est. Praesent eu faucibus ante. Quisque rhoncus a diam id sodales. Quisque vel nisl elementum, ornare purus vitae, vestibulum est. Nulla pretium viverra erat et molestie. Donec semper, sapien quis rhoncus interdum, turpis arcu fringilla nisi, eu pellentesque urna velit ut lectus.</p> 
@@ -160,7 +160,7 @@ export const Data = [
         "post_slug":"sixth-post",
         "post_date":"06/10/2023",
         "post_author":"Victor Rodrigues",
-        "post_image":"http://localhost:4200/assets/blog-post-img-blue.jpg",
+        "post_image":"/assets/blog-post-img-blue.jpg",
         "post_content":`<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pharetra lectus a quam porttitor maximus. Morbi lacinia nisl elit, at imperdiet leo hendrerit at. Integer vel iaculis sem. Donec eget consequat purus. Proin semper nunc ut purus vulputate suscipit. Suspendisse iaculis congue felis, quis facilisis tortor dapibus id. Etiam sollicitudin venenatis quam at pellentesque. Vivamus ac mauris lacinia, porttitor justo vitae, dapibus erat. Phasellus sit amet ultricies turpis, tincidunt finibus sapien. Aliquam risus lacus, ornare quis accumsan a, lacinia vel metus. Etiam sit amet orci at dolor imperdiet ultrices id vitae eros. Proin malesuada erat purus, in vulputate leo tempus sit amet. Quisque congue lectus nec lectus ultrices, et condimentum eros convallis.</p>
         <br>
          <p>Duis lacus turpis, imperdiet non lectus id, fermentum lacinia mi. Mauris vestibulum accumsan metus, quis ullamcorper nunc egestas eget. Aenean rutrum, odio eget pharetra tincidunt, purus libero vestibulum ligula, sit amet pellentesque sem dolor in dolor. Sed ligula orci, suscipit id dictum id, egestas at est. Praesent eu faucibus ante. Quisque rhoncus a diam id sodales. Quisque vel nisl elementum, ornare purus vitae, vestibulum est. Nulla pretium viverra erat et molestie. Donec semper, sapien quis rhoncus interdum, turpis arcu fringilla nisi, eu pellentesque urna velit ut lectus.</p>
