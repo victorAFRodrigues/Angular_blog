@@ -1,11 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap'); /* You can add global styles to this file, and also import other style files */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 body{
     color:#fff;
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif;
 }
 .blue_gradient_text_color{
     background: linear-gradient(270deg, #22D3EE 32.96%, #0EA5E9 52.81%);
